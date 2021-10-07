@@ -1,3 +1,3 @@
 Anotações sobre esta aula-> O git bash é um terminal extendido para otimizar o uso do Git.
 
--> 
+-> Git push origin main = envia todos os commits locais pra nuvem
